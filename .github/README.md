@@ -2,7 +2,15 @@
 
 My super powered custom Codex Prompts
 
-## Release
+## Install
+
+```bash
+git clone https://github.com/TheClooneyCollection/codex-prompts.git ~/.codex/prmopts
+```
+
+## Prompts
+
+### **Release**
 
 Coordinates tagging and publishing a new release with `git` and `gh`.
 
